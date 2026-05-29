@@ -46,6 +46,6 @@ To design and implement an Excel-based dashboard that converts raw industrial tr
 ---
 
 ## Conclusion  
-This project focuses on the design and implementation of an Excel-based dashboard system that transforms raw operational data into a structured reporting framework. It establishes the analytical infrastructure required for consistent metric generation across multiple business dimensions.
+The analysis shows a downward trend in overall quantity after 2023, alongside a high concentration of cancelled orders, indicating inefficiencies in the order lifecycle. Despite this, Facebook remains a strong customer acquisition channel, and chairs dominate product demand. The dataset suggests that while customer acquisition is effective in certain channels, operational inefficiencies and fulfillment challenges may be impacting overall performance
 
 The dashboard serves as the foundational reporting layer that enables downstream interpretation and insight generation in Project 2 (Industrial Training EDA Analysis).
